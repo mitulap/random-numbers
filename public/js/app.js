@@ -21,6 +21,10 @@ var randomNumbers = angular.module('randomNumbers', ['ngRoute', 'ngAnimate', 'ui
         templateUrl: 'bitmap.html',
         controller: 'mainAppController'
     }).
+    when('/sound', {
+        templateUrl: 'sound.html',
+        controller: 'soundController'
+    }).
     otherwise({
         templateUrl: 'notfound.html',
         controller: 'notFoundController'

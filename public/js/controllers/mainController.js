@@ -1,4 +1,4 @@
-randomNumbers.controller('mainAppController', [ '$scope', '$interval', '$http', '$location',     '$window', '$parse' ,function($scope, $interval, $http, $location, $window, $parse) {
+randomNumbers.controller('mainAppController', [ '$scope', '$interval', '$http', '$location', '$window', '$parse' ,function($scope, $interval, $http, $location, $window, $parse) {
 
     $scope.errorBitMap = false;
 
