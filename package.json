@@ -1,0 +1,26 @@
+{
+  "name": "random-numbers",
+  "version": "1.0.0",
+  "description": "This repo contains work which shows behaviour of random numbers.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitulap/random-numbers.git"
+  },
+  "keywords": [
+    "random-numbers",
+    "butmap"
+  ],
+  "author": "mitul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitulap/random-numbers/issues"
+  },
+  "homepage": "https://github.com/mitulap/random-numbers#readme",
+  "dependencies": {
+    "express": "^4.15.1"
+  }
+}
