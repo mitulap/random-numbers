@@ -1,5 +1,5 @@
 # random-numbers
-This repo contains work which shows behaviour of random numbers. This project currently has two use cases from random numbers.
+This repo contains work which shows the behavior of random numbers. This project currently has two use cases from random numbers. It takes random integer data array and then creates the following.
 
 1. Random Bitmap
 2. White Noise
@@ -18,4 +18,4 @@ I have used existing algorithms from online resources to generate bitmap and sou
  
 For your questions contact me here : mitulpatel.hsd@gmail.com
 
-Your suggestions, feedback and comments are always welcome.
+Your suggestions, feedback, and comments are always welcome.
